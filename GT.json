@@ -1,1 +1,116 @@
-
+[
+  {
+    "id": "abc123def456ghi789",
+    "key": "user01",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "ali456",
+    "key": "user02",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "user03",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "user04",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
+]
