@@ -4,7 +4,7 @@
     "username": "komal",
     "password": "gt",
     "expiresAt": "2025-02-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
